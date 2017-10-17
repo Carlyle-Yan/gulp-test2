@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-10-16 14:47:11
+ * @version $Id$
+ */
+.mytest{
+	font-size: 15px;
+	color: #f00;
+	margin-top: 10px;
+}
